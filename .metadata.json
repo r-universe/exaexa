@@ -1,5 +1,9 @@
 [
   {
+    "package": "EmbedSOM",
+    "oncran": true
+  },
+  {
     "package": "scattermore",
     "oncran": true
   }
