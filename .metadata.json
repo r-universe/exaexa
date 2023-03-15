@@ -1,10 +1,10 @@
 [
   {
-    "package": "EmbedSOM",
+    "package": "scattermore",
     "oncran": true
   },
   {
-    "package": "scattermore",
+    "package": "EmbedSOM",
     "oncran": true
   }
 ]

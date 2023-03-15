@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "EmbedSOM"]
-	path = EmbedSOM
-	url = https://github.com/exaexa/embedsom
-	shallow = true
-	registered = true
 [submodule "scattermore"]
 	path = scattermore
 	url = https://github.com/exaexa/scattermore
+	shallow = true
+	registered = true
+[submodule "EmbedSOM"]
+	path = EmbedSOM
+	url = https://github.com/exaexa/embedsom
 	shallow = true
 	registered = true
