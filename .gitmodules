@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EmbedSOM"]
-	path = EmbedSOM
-	url = https://github.com/exaexa/embedsom
 [submodule "scattermore"]
 	path = scattermore
 	url = https://github.com/exaexa/scattermore
